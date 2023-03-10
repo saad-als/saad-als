@@ -16,5 +16,5 @@
 
 
 ## Programming Languages
-<img src = 'c-original.svg' width='30'/> <img src = 'cpp.svg' width='30'/> <img src = 'python.svg' height='30'/>  <img src = 'html.svg' width='30'/> <img src = 'css.svg' width='30'/> <img src = 'js.svg' width='30'/> <img src = 'bootstrap.svg' width='33'/> <img src = 'dart.svg' width='33'/>
+<img src = 'js.svg' width='30'/>  <img src = 'html.svg' width='30'/> <img src = 'css.svg' width='30'/> <img src = 'bootstrap.svg' width='33'/> <img src = 'c-original.svg' width='30'/> <img src = 'cpp.svg' width='30'/> <img src = 'python.svg' height='30'/> 
 
