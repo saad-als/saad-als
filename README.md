@@ -13,6 +13,7 @@
 
 
 ![Saad's github stats](https://github-readme-stats.vercel.app/api?username=xsmqaax&show_icons=true&hide=[%22issues%22])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsmqaax&layout=compact)](https://github.com/xsmqaax/github-readme-stats)
 
 
 ## Programming Languages
