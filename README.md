@@ -4,7 +4,7 @@
 
 ## Know me :sunglasses: :point_down:
 
-- :alien: Human, Programmer, mostly Front-end developer.
+- :alien: Human, Programmer, software Developer.
 -  Information Technology graduate from [Taif University](https://www.tu.edu.sa/En/).
 -  I spend most of my time learning all about software engineering, web development.
 -  I build my projects in private then make it public when it's completed.
