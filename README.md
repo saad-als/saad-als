@@ -8,7 +8,6 @@
 -  Information Technology graduate from [Taif University](https://www.tu.edu.sa/En/).
 -  I spend most of my time learning all about software engineering, web development.
 -  I build my projects in private then make it public when it's completed.
--  I'm currently learning React.js, Vue.js, sometimes php, Laravel and node.js
 
 
 
