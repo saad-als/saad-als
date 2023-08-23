@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 
-## Know me :sunglasses: :point_down:
+## Know me :point_down:
 
 -  Programmer, Software Developer.
 -  Information Technology graduate from [Taif University](https://www.tu.edu.sa/En/).
